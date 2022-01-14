@@ -1,4 +1,4 @@
-### Olá! Bem vindo ao meu perfil do GitHub
+### Olá! Bem vindo(a) ao meu perfil
 
 <div align="center">
   <a href="https://github.com/leeconde">
