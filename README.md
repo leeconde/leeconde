@@ -8,9 +8,3 @@
 
   <p>Sou movida pelo desafio de aprender coisas novas e criar produtos que façam a diferença no dia a dia das pessoas.</p>
 </div>
-
-<div>
-	<p>
-    Caso queira conversar sobre algum assunto 
-    </p>
-</div>
